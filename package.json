@@ -3,12 +3,28 @@
   "displayName": "Pirulug Icons",
   "description": "",
   "version": "0.0.1",
+  "publisher": "pirulug",
   "engines": {
     "vscode": "^1.92.0"
   },
   "categories": [
-    "Other"
+    "Other",
+    "Themes"
   ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "others"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pirulug/vscode-pirulug-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pirulug/vscode-pirulug-icons/issues"
+  },
+  "license": "MIT",
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
