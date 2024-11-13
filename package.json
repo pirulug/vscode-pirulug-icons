@@ -2,7 +2,7 @@
   "name": "pirulug-icons",
   "displayName": "Pirulug Icons",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "pirulug",
   "engines": {
     "vscode": "^1.92.0"
@@ -26,6 +26,7 @@
   },
   "license": "MIT",
   "activationEvents": [],
+  "icon": "icon.png",
   "main": "./extension.js",
   "contributes": {
     "iconThemes": [
